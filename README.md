@@ -3,7 +3,8 @@
 
 Matlab and Julia implementations from
 
-"Effective Matrix Designs for COVID-19 Group Testing", D. Brust and J.J. Brust (2022)
+"Effective Matrix Designs for COVID-19 Group Testing", D. Brust and J.J. Brust (2022),
+[[Article](https://www.medrxiv.org/content/10.1101/2022.08.23.22279137v1 "Technical Report")]
 
 Content:
   * MATLAB/
