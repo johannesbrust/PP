@@ -90,7 +90,7 @@ If this work is useful to you, you can cite this work as (bibtex)
   institution = {Mathematics Department, University of California, San Diego, CA},
   type        = {Technical Report},
   year        = {2022},
-  url         = {TBD}
+  url         = {https://doi.org/10.1101/2022.08.23.22279137}
 }
 ```
 
