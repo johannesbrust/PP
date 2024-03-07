@@ -84,13 +84,15 @@ Identified Indices:    [2, 13]
 If this work is useful to you, you can cite this work as (bibtex)
 
 ```
-@TechReport{pp22,
-  author      = {David Brust and Johannes J. Brust},
-  title       = {Effective Matrix Designs for COVID-19 Group Testing},
-  institution = {Mathematics Department, University of California, San Diego, CA},
-  type        = {Technical Report},
-  year        = {2022},
-  url         = {https://doi.org/10.1101/2022.08.23.22279137}
+@article{brustB23,
+  title={Effective matrix designs for COVID-19 group testing},
+  author={Brust, David and Brust, Johannes J},
+  journal={BMC bioinformatics},
+  volume={24},
+  number={1},
+  pages={26},
+  year={2023},
+  publisher={Springer}
 }
 ```
 
